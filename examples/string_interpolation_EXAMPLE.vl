@@ -1,0 +1,2 @@
+remember "Ana" as name
+say "Hello, {name}!"
