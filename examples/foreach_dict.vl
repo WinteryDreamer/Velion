@@ -1,0 +1,4 @@
+remember {"name": "Ana", "age": 20} as person
+for each key, value in person do
+    say key, value with ": " between
+end
